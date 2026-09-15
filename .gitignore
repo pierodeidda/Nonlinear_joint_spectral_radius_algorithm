@@ -1,0 +1,15 @@
+text# MATLAB temporary files
+*.asv
+*.m~
+*.mat
+*.fig
+
+# MATLAB workspace and history
+.matlab/
+matlab.log
+
+# Simulink cache files
+*.slxc
+
+# Figures
+/figures
